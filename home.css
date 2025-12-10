@@ -1,0 +1,31 @@
+.custom-nav {
+    height: 100px;
+}
+
+.custom-nav .nav-link {
+    color: #000000;
+    font-family: monospace;
+    font-size: 1.2rem;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+.custom-nav .nav-link:hover {
+    color: #0d6e63;
+}
+
+.custom-nav .navbar-brand:hover {
+    color: #0d6e63;
+}
+
+.custom-nav .navbar-brand {
+    font-family: 'Times New Roman';
+    color: #002366;
+    margin-left: 40px;
+}
+
+.custom-nav {
+    background-color: rgb(255, 255, 255);
+    color: #002366;
+}
