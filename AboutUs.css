@@ -24,7 +24,7 @@ h3{
 }
 
 .custom-nav .nav-link {
-    color: #000000;
+    color: #ffffff;
     font-family: monospace;
     font-size: 1.2rem;
     margin-left: 20px;
@@ -42,11 +42,11 @@ h3{
 
 .custom-nav .navbar-brand {
     font-family: 'Times New Roman';
-    color: #002366;
+    color: #ffffff;
     margin-left: 40px;
 }
 
 .custom-nav {
-    background-color: rgb(255, 255, 255);
-    color: #002366;
+    background-color: rgb(0, 0, 0);
+  
 }
