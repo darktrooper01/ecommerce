@@ -22,11 +22,11 @@
 }
 
 .custom-nav .nav-link:hover {
-    color: #0d6e63;
+    color: #248198;
 }
 
 .custom-nav .navbar-brand:hover {
-    color: #0d6e63;
+    color: #248198;
 }
 
 .custom-nav .navbar-brand {
@@ -36,7 +36,7 @@
 }
 
 .custom-nav {
-    background-color: #242526;
+    background-color: #000000;
     
 }
 
